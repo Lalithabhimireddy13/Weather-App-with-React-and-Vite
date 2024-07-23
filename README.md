@@ -21,7 +21,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/my-react-weather-app.git
+git clone https://github.com/Lalithabhimireddy13/my-react-weather-app.git
 cd my-react-weather-app
 Install dependencies:
 
